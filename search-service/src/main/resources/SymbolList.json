@@ -1,0 +1,132 @@
+{
+  "companies": [
+    {
+      "companyName": "Apple Inc",
+      "symbol": "AAPL"
+    },
+    {
+      "companyName": "Microsoft Corp",
+      "symbol": "MSFT"
+    },
+    {
+      "companyName": "Microsoft Corporation",
+      "symbol": "MSF.BR"
+    },
+    {
+      "companyName": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "symbol": "TSM"
+    },
+    {
+      "companyName": "NVIDIA Corp",
+      "symbol": "NVDA"
+    },
+    {
+      "companyName": "Adobe Inc",
+      "symbol": "ADBE"
+    },
+    {
+      "companyName": "Intel Corporation",
+      "symbol": "INCO.BR"
+    },
+    {
+      "companyName": "Salesforce.Com Inc",
+      "symbol": "CRM"
+    },
+    {
+      "companyName": "Intel Corp",
+      "symbol": "INTC"
+    },
+    {
+      "companyName": "ASML Holding N.V.",
+      "symbol": "ASML"
+    },
+    {
+      "companyName": "Cisco Systems Inc",
+      "symbol": "CSCO"
+    },
+    {
+      "companyName": "Cisco Systems, Inc.",
+      "symbol": "CIS.BR"
+    },
+    {
+      "companyName": "Oracle Corp",
+      "symbol": "ORCL"
+    },
+    {
+      "companyName": "Shopify Inc",
+      "symbol": "SHOP.TO"
+    },
+    {
+      "companyName": "Broadcom Inc",
+      "symbol": "AVGO"
+    },
+    {
+      "companyName": "Accenture PLC",
+      "symbol": "ACN"
+    },
+    {
+      "companyName": "ASML Holding NV",
+      "symbol": "ASML.AS"
+    },
+    {
+      "companyName": "Qualcomm Inc",
+      "symbol": "QCOM"
+    },
+    {
+      "companyName": "SAP SE ADS",
+      "symbol": "SAP"
+    },
+    {
+      "companyName": "Texas Instruments Inc",
+      "symbol": "TXN"
+    },
+    {
+      "companyName": "Shopify Inc",
+      "symbol": "SHOP"
+    },
+    {
+      "companyName": "Sony Corporation",
+      "symbol": "SNE"
+    },
+    {
+      "companyName": "Advanced Micro Devices Inc",
+      "symbol": "AMD"
+    },
+    {
+      "companyName": "International Business Machines Corporation",
+      "symbol": "IBMA.BR"
+    },
+    {
+      "companyName": "International Business Machines Corp",
+      "symbol": "IBM"
+    },
+    {
+      "companyName": "Advanced Micro Devices Inc",
+      "symbol": "AMD"
+    },
+    {
+      "companyName": "ServiceNow Inc",
+      "symbol": "NOW"
+    },
+    {
+      "companyName": "Intuit Inc",
+      "symbol": "INTU"
+    },
+    {
+      "companyName": "Square Inc",
+      "symbol": "SQ"
+    },
+    {
+      "companyName": "Uber Technologies Inc",
+      "symbol": "UBER"
+    },
+    {
+      "companyName": "Snowflake Inc.",
+      "symbol": "SNOW"
+    },
+    {
+      "companyName": "Fidelity National Information Services Inc",
+      "symbol": "FIS"
+    }
+  ]
+}
